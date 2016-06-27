@@ -1,8 +1,8 @@
-# Jekyll on Heroku
+# Jekyll on Heroku Deploy Files
 
-**Application Name:** Jekyll on Heroku
+**Application Name:** Jekyll on Heroku Deploy Files
 
-**Application Description:** Key files for deploying Jekyll on Heroku.
+**Application Description:** Jekyll on Heroku Deploy Files.
 
 **Author:** Matthew Bull
 
